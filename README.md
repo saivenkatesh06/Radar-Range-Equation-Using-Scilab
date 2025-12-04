@@ -76,7 +76,8 @@ title("Rmax vs Pm");
 
 
 ## Tabulation
-![WhatsApp Image 2025-11-29 at 15 21 29_b8cbf431](https://github.com/user-attachments/assets/ffad2351-eba5-4e8c-bbf8-e5b209090c61)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/34112d5c-798a-4c33-a29d-d8542b408045" />
+
 
 
 
